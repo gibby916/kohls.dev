@@ -15,7 +15,7 @@ color = "" #color from the theme settings
 
 # Palo Alto GlobalProtect - Enforcer Mode
 
-You may be familiar with the aft named 'Enforcer Mode' from GlobalProtect. This feature is enabled when you set the 'Enforce GlobalProtect Connection for Network Access' to 'Yes'. There are two additional fields which can optionally be enabled as well (IP Address - 'Allow Traffic to specified hosts/networks when Enforce GlobalProtect Connection for Network Access is enabled and GlobalProtect Connection is not established' and domain based - 'Allow traffic to specified fqdn when Enforce GlobalProtect Connection for Network Access is enabled and GlobalProtect Connection is not established')
+You may be familiar with the aft named 'Enforcer Mode' from GlobalProtect. This feature is enabled when you set the <code>Enforce GlobalProtect Connection for Network Access</code> to <code>Yes</code>. There are two additional fields which can optionally be enabled as well (IP Address - 'Allow Traffic to specified hosts/networks when Enforce GlobalProtect Connection for Network Access is enabled and GlobalProtect Connection is not established' and domain based - 'Allow traffic to specified fqdn when Enforce GlobalProtect Connection for Network Access is enabled and GlobalProtect Connection is not established')
 
 Currently, as the enforcement mode filtering is performed client side, there is no logging available outside of validating what IP / Subnets / domains have been whitelisted in the client configuration. When working with TCP/UDP based traffic, this is typically straight forward, and performing a client side PCAP with a packet capture tool such as Wireshark is a fallback. But what about broadcast traffic?
 
