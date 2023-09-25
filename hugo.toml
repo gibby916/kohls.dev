@@ -1,6 +1,6 @@
-baseurl = ""
+baseurl = "https://kohls.dev"
 languageCode = "en-us"
-title = "Kohls Test Site"
+title = "kohls.dev"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "terminal"
@@ -15,13 +15,13 @@ paginate = 5
   themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
 
   # set theme to full screen width
-  fullWidthTheme = false
+  fullWidthTheme = true
 
   # center theme with default width
   centerTheme = false
@@ -59,9 +59,9 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = ""
+    title = "kohls.dev"
+    subtitle = "IT related tidbits"
+    owner = "Brian Kohls"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
