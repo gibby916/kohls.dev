@@ -8,4 +8,4 @@ tags = ['tag1', 'paloalto']
 categories = ['firewalls']
 +++
 
-Just testing out pushing a new post through Git / Github.oro
+Just testing out pushing a new post through Git / Github.com
