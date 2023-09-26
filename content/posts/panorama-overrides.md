@@ -9,7 +9,7 @@ keywords = ["panorama", "paloalto"]
 description = "Palo Alto Panorama Overrides"
 showFullContent = true
 readingTime = true
-hideComments = false
+hideComments = true
 color = "" #color from the theme settings
 +++
 
