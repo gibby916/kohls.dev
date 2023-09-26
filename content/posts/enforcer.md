@@ -1,5 +1,5 @@
 +++
-title = "Enforcer"
+title = "GlobalProtect Enforcer Troubleshooting"
 date = "2023-09-25T17:08:40-05:00"
 author = "Brian"
 authorTwitter = "" #do not include @
