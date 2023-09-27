@@ -6,10 +6,10 @@ authorTwitter = "" #do not include @
 cover = "img/enforcer.png"
 tags = ["paloalto", "firewalls", "globalprotect"]
 keywords = ["globalprotect", "paloalto"]
-description = "Palo Alto Enforcer Mode and Broadcast Traffic"
+description = "PYou may be familiar with the aft named 'Enforcer Mode' from GlobalProtect. This feature is enabled when you set the `Enforce GlobalProtect Connection for Network Access` to `Yes`. There are two additional fields which can optionally be enabled as well:"
 showFullContent = false
-readingTime = false
-hideComments = false
+readingTime = true
+hideComments = true
 color = "" #color from the theme settings
 +++
 
