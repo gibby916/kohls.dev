@@ -12,4 +12,4 @@ This site is being built to share a collection of hurdles I have experienced in 
 
 So, there you have it... enjoy!
 
-Questions? Feel free to reach out via email: b+kohls[at]gmail[dot]com
+Questions? Feel free to reach out via email: b+kohls[at]gmail[dot]com.
